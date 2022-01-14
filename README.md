@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript and other awesome stuff
 - 📫 You can reach me on email at alexbacirea@gmail.com
-- ☕ And I like black coffee
+- ☕ I like black coffee and music
 
 <!---
 alexb017/alexb017 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
