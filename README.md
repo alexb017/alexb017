@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexb017
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript and other awesome stuff
+- 👀 I’m interested in front end development
+- 🌱 I’m currently learning javascript, reactjs and other awesome stuff
 - 📫 You can reach me on email at alexbacirea@gmail.com
 - ☕ I like black coffee and music
 
