@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @alexb017
-- 👀 I’m interested in front end development
-- 🌱 I’m currently learning javascript, reactjs and other awesome stuff
-- ☕ I like black coffee and music
+- 👋 Hey there, I’m Alex
+- 👀 I’m interested in web development
+- ✨ I like making things, I'm a fairly curious person
+- 🌱 I’m currently learning react, next and other awesome stuff
+- ☕ And I like black coffee
+- 📫 Mail me at alexbacirea@gmail.com
 
 <!---
 alexb017/alexb017 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
