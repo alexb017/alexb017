@@ -1,7 +1,7 @@
 - 👋 Hey there, I’m Alex
 - ✨ I like making things, I'm a fairly curious person
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning react, next and other awesome stuff
+- 🌱 I’m currently learning javascript, react and other awesome stuff
 - ☕ And I like black coffee
 
 <!---
