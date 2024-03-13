@@ -1,6 +1,7 @@
 Hey, I’m Alex 👋
 
-I enjoy creating things, drinking black coffee, and listening to music.
+I'm a fairly curious person. I enjoy creating things, 
+listening to music, and playing video games.
 
 ✌️
 
@@ -11,6 +12,8 @@ I enjoy creating things, drinking black coffee, and listening to music.
 
 alexb017/alexb017 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+I enjoy creating things, drinking black coffee, and listening to music.
 
 - 👋 Hey there, I’m Alex
 - 👀 I’m interested in frontend development
