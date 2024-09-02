@@ -1,7 +1,7 @@
-Hey, I’m Alex 👋
+Hey, I am Alex
 
-I'm a fairly curious person. I enjoy creating things,  
-listening to music, and playing video games.
+I'm a fairly curious person, I enjoy creating things,  
+listening to music, and lately reading books.
 
 ✌️
 
