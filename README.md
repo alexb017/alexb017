@@ -1,4 +1,4 @@
-Hey, I am Alex
+Hey, I'm Alex
 
 I'm a fairly curious person, I enjoy creating things,  
 listening to music, and lately reading books.
