@@ -1,11 +1,4 @@
-Hey, I'm Alex
-
-I'm a fairly curious person, I enjoy creating things,  
-listening to music, and lately reading books.
-
-✌️
-
-
+Hey, I'm Alex ✌️
 
 <!---
 [Spotify playlist](https://open.spotify.com/playlist/7fIYhqN7hmj0wUJny9I7at?si=939a5e33babc40e6)
